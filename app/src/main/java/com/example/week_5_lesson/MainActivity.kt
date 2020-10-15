@@ -2,6 +2,7 @@ package com.example.week_5_lesson
 
 //3 commit
 //3 commit
+//second branch
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 
